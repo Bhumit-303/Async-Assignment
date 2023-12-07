@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timer</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+    <div id="main-continer">
+        <div id="timer"></div>
+        <label for="newTime">Set Time (mm:ss): </label>
+        <br>
+        <input type="text" id="newTime" placeholder="mm:ss">
+        <button class="btn" id="set" onclick="changeTimer()">Set</button>
+        <br>
+        <button class="btn" id="start" onclick="startTimer()">Start</button>
+        <button class="btn" id="pause" onclick="pauseTimer()">Pause</button>
+        <button class="btn" id="reset" onclick="resetTimer()">Reset</button>
+    </div>
+</body>
+</html>
+<script src="./index.js"></script>
