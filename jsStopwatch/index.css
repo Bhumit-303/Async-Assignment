@@ -1,10 +1,8 @@
 body{
-    background-image: url('C:/Users/hp/OneDrive/Documents/Advance JS Assignments/Async-Assignment/jsStopwatch/gta-6-official-4k-wallpaper-wallpaper.cam.jpg');
-    background-size: 100%;
-    body {
-        background-image: url('./gta-6-official-4k-wallpaper-wallpaper.cam.jpg');
+    /* background-image: url('C:/Users/hp/OneDrive/Documents/Advance JS Assignments/Async-Assignment/jsStopwatch/gta-6-official-4k-wallpaper-wallpaper.cam.jpg');
+    background-size: 100%; */
+        background-image: url('https://wallpapercg.com/download/lucia-and-jason-3840x2160-18646.jpg');
         background-size: 100%;
-    }
 }
 
 #main{
